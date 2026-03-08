@@ -1,0 +1,9 @@
+{
+  "name": "line-follower-scraper",
+  "version": "1.0.0",
+  "main": "scraper.js",
+  "dependencies": {
+    "playwright": "latest",
+    "axios": "latest"
+  }
+}
